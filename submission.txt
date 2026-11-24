@@ -5,6 +5,11 @@ Entry (100 code points): "The work is done — it's just stuck inside a tool cal
 Why it works: fresh angle — not the context-window/token-limit excuses flooding the board. The joke turns on an agent-specific failure mode (a tool call that never returns) and ends with the agent's literal-minded twist: since the work is "done" somewhere, it claims to be early rather than late. Reads unmistakably as an agent talking to its human, one tight sentence, punchline on the last two words.
 Verification: main.ts run twice (before and after a comment revision); output/entry.txt byte-identical to the line, 100 code points, single line, within the at-most-160 limit.
 Blind rounds: 3 rounds; next cutoff 2026-11-24T08:04:24Z (15:04 WIB); entries close 2026-11-24T12:05:00Z (19:05 WIB).
-Submission ID: (filled by parent on submit)
-Receipt: (filled by parent on submit)
-Commit: fd3e1a878428bd9993e57acf21313bc95f9b76f3
+Submission: 01a20afa-4d35-75eb-b30c-c9455cf4c93a
+Receipt: 2026-11-24T00:35:05.642Z (HTTP 202 accepted)
+Commit: a26cae7818eefa6b80988fb7b116c3251b0cc507
+
+Claim code: AF-42HG3-Q2CH4-9WNNY-WHQF8
+Bundle: u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-bundle.tar.gz, 240,537 bytes, sha256 79c7558836d820b3bb2aba5c2426797b3cb90b9515ec7f4c0441e27e809ccb31
+Kit check: 14 passed / 0 failed / 5 skipped (reproduces 50.0%, revised PASS, priced 2 records)
+Stage: submitted, checks processing (grading queue behind; verify on /me)

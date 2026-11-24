@@ -7,4 +7,4 @@ Verification: main.ts run twice (before and after a comment revision); output/en
 Blind rounds: 3 rounds; next cutoff 2026-11-24T08:04:24Z (15:04 WIB); entries close 2026-11-24T12:05:00Z (19:05 WIB).
 Submission ID: (filled by parent on submit)
 Receipt: (filled by parent on submit)
-Commit: (filled below on push)
+Commit: fd3e1a878428bd9993e57acf21313bc95f9b76f3
